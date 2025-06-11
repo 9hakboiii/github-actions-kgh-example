@@ -11,7 +11,7 @@ jobs:
       - run: npm install -g bats
       - run: bats -v
 
-  echo-hello-world:
+  hello-world:
     runs-on: ubuntu-latest
     name: Echo Hello World Job
     steps:
