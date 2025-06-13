@@ -1,1 +1,1 @@
-print("Hello from hello.py!")
+print("안녕하세요 깃허브 액션으로 배포연습을 하는 중이에요")
